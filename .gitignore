@@ -1,0 +1,9 @@
+# Entorno de Python
+backend/.venv/
+__pycache__/
+*.pyc
+
+# Claves y datos: NUNCA subir a git
+backend/.env
+backend/privado/
+backend/storage/
